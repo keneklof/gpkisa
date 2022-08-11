@@ -11,21 +11,10 @@
       <Location longitude="22.6375" latitude="60.8125"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
-  </Point>
-
-<Point type="Turn">
-    <Waypoint name="Ortenoja" id="0" comment="" altitude="70.0">
-      <Location longitude="22.6375" latitude="60.8125"/>
-    </Waypoint>
     <ObservationZone type="Cylinder" radius="10000.0"/>
-  </Point>
-
-<Point type="Turn">
-    <Waypoint name="Ortenoja" id="0" comment="" altitude="70.0">
-      <Location longitude="22.6375" latitude="60.8125"/>
-    </Waypoint>
     <ObservationZone type="Cylinder" radius="15000.0"/>
   </Point>
+
 
   <Point type="Turn">
     <Waypoint name="Turenki" id="0" comment="" altitude="117.0">
